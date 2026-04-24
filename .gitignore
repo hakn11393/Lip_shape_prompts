@@ -1,0 +1,10 @@
+3.8_venv/
+__pycache__/
+*.pth
+*.pt
+*.tar
+*.mp4
+*.mp4
+*.wav
+.DS_Store
+ffmpeg-8.1-full_build/
